@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/movi_app_2019/static/css/main.ba2725f5.chunk.css",
+    "main.js": "/movi_app_2019/static/js/main.ac65f322.chunk.js",
+    "main.js.map": "/movi_app_2019/static/js/main.ac65f322.chunk.js.map",
+    "runtime-main.js": "/movi_app_2019/static/js/runtime-main.9f0072d2.js",
+    "runtime-main.js.map": "/movi_app_2019/static/js/runtime-main.9f0072d2.js.map",
+    "static/js/2.5b6d6bad.chunk.js": "/movi_app_2019/static/js/2.5b6d6bad.chunk.js",
+    "static/js/2.5b6d6bad.chunk.js.map": "/movi_app_2019/static/js/2.5b6d6bad.chunk.js.map",
+    "index.html": "/movi_app_2019/index.html",
+    "precache-manifest.9bb1444d179652f8f56af7683d936760.js": "/movi_app_2019/precache-manifest.9bb1444d179652f8f56af7683d936760.js",
+    "service-worker.js": "/movi_app_2019/service-worker.js",
+    "static/css/main.ba2725f5.chunk.css.map": "/movi_app_2019/static/css/main.ba2725f5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f0072d2.js",
+    "static/js/2.5b6d6bad.chunk.js",
+    "static/css/main.ba2725f5.chunk.css",
+    "static/js/main.ac65f322.chunk.js"
+  ]
+}
